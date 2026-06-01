@@ -1,6 +1,6 @@
-# Faisal Khan — Portfolio
+# Faisal Khan Portfolio
 
-Professional portfolio website for **Mohd Faisal Khan** — Mobility & AI Engineering Lead with 12+ years of experience.
+Professional portfolio website for **Mohd Faisal Khan**, Mobility & AI Engineering Lead with 12+ years of experience.
 
 ## Tech Stack
 
@@ -40,7 +40,7 @@ npm run build
 
 Edit files in `src/data/`:
 
-- `profile.ts` — personal info, about, AI capabilities
-- `projects.ts` — project listings
-- `skills.ts` — tech stack groups
-- `experience.ts` — work history & onsite experience
+- `profile.ts`: personal info, about, AI capabilities
+- `projects.ts`: project listings
+- `skills.ts`: tech stack groups
+- `experience.ts`: work history & onsite experience

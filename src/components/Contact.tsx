@@ -23,7 +23,7 @@ export default function Contact() {
           I&apos;m open to consulting opportunities, leadership roles, and challenging
           projects in mobile, web, and AI engineering. With 5+ years managing core
           teams and handling clients directly, I bring both technical depth and
-          strong project & team management — feel free to reach out.
+          strong project & team management. Feel free to reach out.
         </p>
 
         <div className="mb-12 flex flex-col gap-5">

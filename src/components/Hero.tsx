@@ -26,7 +26,7 @@ export default function Hero() {
 
         <p className="mb-10 max-w-2xl text-sm leading-relaxed text-neutral-400 sm:text-base">
           Software Consultant with 12+ years shipping mobile, web & enterprise
-          solutions. 5+ years leading core teams and managing clients — alongside
+          solutions. 5+ years leading core teams and managing clients, alongside
           hands-on work in React Native, React, AI platforms, and generative AI
           tooling with Claude, Gemini, and Cursor.
         </p>

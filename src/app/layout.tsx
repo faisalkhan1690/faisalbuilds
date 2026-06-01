@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Faisal Khan | Mobility & AI Engineering Lead",
     description:
-      "12+ years building mobile, web & agentic AI solutions — from banking apps to generative-AI-powered development pipelines.",
+      "12+ years building mobile, web & agentic AI solutions, from banking apps to generative-AI-powered development pipelines.",
     type: "website",
     locale: "en_IN",
   },

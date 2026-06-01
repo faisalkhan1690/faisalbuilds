@@ -13,7 +13,7 @@ export const projects: Project[] = [
     id: "saral-ai",
     name: "Saral AI",
     description:
-      "GlobalLogic internal AI platform integrating databases and UI to generate dynamic, context-aware reports — reducing manual reporting and enabling data-driven decisions across teams.",
+      "GlobalLogic internal AI platform integrating databases and UI to generate dynamic, context-aware reports, reducing manual reporting and enabling data-driven decisions across teams.",
     tech: ["AI Integration", "Dynamic Reporting", "Database Integration", "React", "LLM"],
     badges: ["GlobalLogic Internal", "Featured"],
     featured: true,
@@ -21,7 +21,7 @@ export const projects: Project[] = [
   },
   {
     id: "partnersoup-ai",
-    name: "Partnersoup — AI Integration",
+    name: "Partnersoup: AI Integration",
     description:
       "Integrated AI-powered file and record access into Partnersoup, enabling faster retrieval, smarter search, and improved handling of private markets documentation for global clients.",
     tech: ["Generative AI", "Document AI", "React Native", "React", "Capacitor"],
@@ -33,7 +33,7 @@ export const projects: Project[] = [
     id: "pg-alpha",
     name: "PG Alpha App & Web",
     description:
-      "Partners Group's cross-platform private markets investment platform — React Native for mobile (iOS & Android) and React for web. Delivers bespoke solutions to global clients with offline/online capabilities and comprehensive analytics.",
+      "Partners Group's cross-platform private markets investment platform built with React Native for mobile (iOS & Android) and React for web. Delivers bespoke solutions to global clients with offline/online capabilities and comprehensive analytics.",
     tech: ["React Native", "React", "Capacitor", "Redux", "Firebase Analytics", "Sentry"],
     badges: ["Partners Group", "Mobile & Web", "Featured"],
     featured: true,

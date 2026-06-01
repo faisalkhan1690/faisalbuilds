@@ -3,7 +3,7 @@ export const profile = {
   fullName: "Mohd Faisal Khan",
   title: "Mobility & AI Engineering Lead",
   tagline:
-    "12+ years in software development — AI, mobile & web engineering with 5+ years leading core teams, project management, and client handling.",
+    "12+ years in software development: AI, mobile & web engineering with 5+ years leading core teams, project management, and client handling.",
   location: "Noida, Uttar Pradesh, India",
   email: "faisalkhan1690@gmail.com",
   phone: "+91 9717991893",
@@ -14,9 +14,9 @@ export const profile = {
     stackoverflow: "https://stackoverflow.com/users/4183013/faisal-khan",
   },
   about: [
-    "Over 12+ years of experience delivering high-quality software across mobile, web, and desktop platforms — from fast-paced startups to multinational corporations.",
+    "Over 12+ years of experience delivering high-quality software across mobile, web, and desktop platforms, from fast-paced startups to multinational corporations.",
     "Currently bridging the gap between traditional software engineering and advanced AI integration. I specialize in developing native and agentic AI applications, leveraging generative AI for rapid development, and optimizing workflows using modern AI tools like Claude, Gemini, and Cursor.",
-    "As a Software Consultant at GlobalLogic, I have spent 5+ years managing a core development team while handling client relationships directly — including onsite work across the UK and Dubai. I combine deep technical expertise with project management and team leadership to drive products from concept to deployment.",
+    "As a Software Consultant at GlobalLogic, I have spent 5+ years managing a core development team while handling client relationships directly, including onsite work across the UK and Dubai. I combine deep technical expertise with project management and team leadership to drive products from concept to deployment.",
   ],
   keywords: [
     "AI Agent Development",

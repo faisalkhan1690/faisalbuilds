@@ -30,7 +30,7 @@ npm run build
 
 - Hero with photo & 12+ years badge
 - About
-- AI & Modern Development (Saral AI, Partnersoup, tooling)
+- AI & Modern Development 
 - Skills & Tech Stack
 - Projects (filterable by category)
 - Experience, Awards & Education

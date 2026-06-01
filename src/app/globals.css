@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-black text-white antialiased;
+  }
+
+  ::selection {
+    @apply bg-pink-500/30 text-white;
+  }
+}
+
+@layer utilities {
+  .section-padding {
+    @apply px-5 py-16 sm:px-8 sm:py-20 lg:px-12 lg:py-24;
+  }
+
+  .container-max {
+    @apply mx-auto max-w-5xl;
+  }
+
+  .gradient-hero {
+    @apply bg-gradient-to-r from-pink-500 via-purple-500 to-violet-500 bg-clip-text text-transparent;
+  }
+
+  .gradient-ring {
+    background: linear-gradient(135deg, #ec4899, #a855f7, #6366f1);
+  }
+
+  .btn-primary {
+    @apply rounded-full bg-white px-8 py-3 text-sm font-medium text-black transition-all hover:bg-neutral-200;
+  }
+
+  .btn-outline {
+    @apply rounded-full border border-white/80 px-8 py-3 text-sm font-medium text-white transition-all hover:bg-white/10;
+  }
+}
